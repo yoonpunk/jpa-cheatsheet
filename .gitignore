@@ -1,30 +1,58 @@
-id-generate/HELP.md
-id-generate/.gradle
-id-generate/build/
-id-generate/!gradle/wrapper/gradle-wrapper.jar
-id-generate/!**/src/main/**/build/
-id-generate/!**/src/test/**/build/
+**/HELP.md
+**/.gradle
+**/build/
+**/!gradle/wrapper/gradle-wrapper.jar
+**/!**/src/main/**/build/
+**/!**/src/test/**/build/
 
 ### STS ###
-id-generate/.apt_generated
-id-generate/.classpath
-id-generate/.factorypath
-id-generate/.project
-id-generate/.settings
-id-generate/.springBeans
-id-generate/.sts4-cache
-id-generate/bin/
-id-generate/!**/src/main/**/bin/
-id-generate/!**/src/test/**/bin/
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/.project
+**/.settings
+**/.springBeans
+**/.sts4-cache
+**/bin/
+**/!**/src/main/**/bin/
+**/!**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
-id-generate/.idea
-id-generate/*.iws
-id-generate/*.iml
-id-generate/*.ipr
-id-generate/out/
-id-generate/!**/src/main/**/out/
-id-generate/!**/src/test/**/out/
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+**/!**/src/main/**/out/
+**/!**/src/test/**/out/
+
+**/HELP.md
+**/.gradle
+**/build/
+**/!gradle/wrapper/gradle-wrapper.jar
+**/!**/src/main/**/build/
+**/!**/src/test/**/build/
+
+### STS ###
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/.project
+**/.settings
+**/.springBeans
+**/.sts4-cache
+**/bin/
+**/!**/src/main/**/bin/
+**/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+**/!**/src/main/**/out/
+**/!**/src/test/**/out/
 
 ### NetBeans ###
 /nbproject/private/
@@ -34,4 +62,4 @@ id-generate/!**/src/test/**/out/
 /.nb-gradle/
 
 ### VS Code ###
-id-generate/.vscode/
+**/.vscode/
